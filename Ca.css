@@ -17,8 +17,10 @@
 .footer {
   left: 0;
   bottom: 0;
+  height:10%;
   width: 100%;
-  background-color: black;
+  color:#999F9F;
+  background-color: #222222;
   text-align: center;
 }
 
